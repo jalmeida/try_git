@@ -3,7 +3,7 @@
 ## EXTRACT VIRTUAL IPS = AVAILABLE
 ## Delele line that match "offline" and "unknown" and previous line
 ## Delete line with "available" and format to output Virtual in column
-## TEST
+## TEST TEST
 #######################################################
 
 BASEDIR=`dirname $0`
